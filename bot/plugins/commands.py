@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'PdiskLinks', url="https://t.me/joinchat/SuBbc27an7A4NmFl"
+                                    '🌼PdiskLinks🌼', url="https://t.me/joinchat/SuBbc27an7A4NmFl"
                                 )
                         ]
                     ]
