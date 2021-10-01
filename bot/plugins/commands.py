@@ -51,9 +51,9 @@ async def start(bot, update):
         InlineKeyboardButton('💞Series channel💞', url ='https://t.me/joinchat/TWwnEk-Nc78wYjU1')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/Clicksubbot')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
+
+
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
